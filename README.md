@@ -14,3 +14,4 @@ https://mega.nz/file/BEAkhJIY#LRKuBH9cKULr8QI1utqyV4R25Foz7MIiRPp65erY5gM
 5.Make sure the ``resources'' directory contains the following files:
   - BVM_labeled.zip
   - BVM2020_biotope_grouping.tiff
+  - ne_10m_admin_1_states_provinces/ne_10m_admin_1_states_provinces.shp
