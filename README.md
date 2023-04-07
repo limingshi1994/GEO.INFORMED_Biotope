@@ -11,6 +11,6 @@ To use the script to rasterize the ground truth data:
 https://mega.nz/file/cAAiQTSZ#DoMplYmpdpnT4_pQVmekyOc0p95bv55afB_O5Op_0K0
 https://mega.nz/file/BEAkhJIY#LRKuBH9cKULr8QI1utqyV4R25Foz7MIiRPp65erY5gM
 
-5. Make sure the ``resources'' directory contains the following files:
+5.Make sure the ``resources'' directory contains the following files:
   - BVM_labeled.zip
   - BVM2020_biotope_grouping.tiff
